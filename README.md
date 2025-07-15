@@ -1,0 +1,2 @@
+Cheese Fat Prediction
+This project predicts the fat content in cheese samples using data analysis and machine learning techniques. It utilizes a dataset of cheese characteristics to build and evaluate predictive models, helping to estimate fat levels based on various features. The project is implemented in Python (Jupyter Notebook) and demonstrates data preprocessing, exploratory analysis, model training, and evaluation. It is ideal for those interested in food science, data science, or practical machine learning applications.
